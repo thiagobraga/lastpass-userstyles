@@ -10,62 +10,63 @@
   header {
     background-color: #22303a;
   }
-  
+
   .lp-get-lastpass a {
     background-color: #333f48;
   }
-  
+
   .main {
     background-color: #22303a;
   }
-  
+
   label {
     color: #b0b5b9;
   }
-  
+
   .remembersignin,
   .remembersignin > div {
     color: #b0b5b9 !important;
   }
-  
+
   #vault {
     background-color: #22303a;
   }
-  
+
   .contentframe {
     background-color: #22303a;
     border: 1px solid #333f48;
   }
-  
+
   #tools {
     background-color: #22303a;
     color:            #b0b5b9;
   }
-  
+
   .dialogHeader {
     background-color: #22303a;
   }
-  
+
   .dialog {
     background-color: #333f48;
   }
-  
+
+  .dialogContent,
   .dialog .label {
     color: #b0b5b9;
   }
-  
+
   .meter {
     height: 1px;
   }
-  
+
   .meter > div {
     height: 2px;
   }
-  
+
   .meter .best {
     background-color: #0dd05b;
   }
-  
+
   .dialogInput,
   .dialog input[type="text"],
   .dialog select,
@@ -74,97 +75,102 @@
     border:           1px solid #1c272f;
     color:          #868686;
   }
-  
+
   .dialogInput:focus {
     outline: 0;
   }
-  
+
   .rbtn {
     background-color: #223039;
     border-color:     #51616d;
     color:            #b0b8bf !important;
   }
-  
+
+  .rbtn:focus,
   .rbtn:hover {
     background-color: #141d22;
   }
-  
+
+  .rbtn:active {
+    background-color: #0b1014;
+  }
+
   .selectDropdownList {
     border-color: #172027;
   }
-  
+
   .selectDropdownList ul {
     background-color: #22303a;
   }
-  
+
   .selectDropdownList.dropdownMenu li {
     border-top: 1px solid #22303a;
     color:      #868686;
   }
-  
+
   #search {
     background-color: #172027;
   }
-  
+
   .menuRight {
     background-color: #172027;
   }
-  
+
   .userMenuTextSecondary {
     color: #567690;
   }
-  
+
   .folderContainer {
     border-bottom: 1px solid #1b262f;
     color:       #b0b5b9;
   }
-  
+
   #pageTitle {
     color: #b0b5b9;
   }
-  
+
   .optionButtons,
   .optionsDropdown {
     background-color: #33414a;
     color: #b0b8bf;
   }
-  
+
   .optionsDropdown:hover,
   .optionButton:hover,
   .toggleButton:hover {
     background-color: #5d7686;
     color: #b0b8bf;
   }
-  
+
   .list {
     background-color: #172027;
   }
-  
+
   .name {
     color: #737d8a;
   }
-  
+
   .infoLabel {
     color: #51616d;
   }
-  
+
   #addMenuButton .addMenuItem>div,  
   .menuButtonRight img.userIcon {
     filter: hue-rotate(225deg) saturate(25%);
   }
-  
+
   #options {
     padding: 12px 48px 0 30px;
   }
-  
+
   .folder {
     margin: 1px 48px 24px 30px;
   }
-  
+
   :focus {
     outline: 1px solid #51616d;
   }
-  
+
   /* Hide free user ad right column */
   .freeUser .leftOfAd {
     right: 0;
