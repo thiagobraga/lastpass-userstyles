@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Dark LastPass
 @namespace      https://github.com/thiagobraga/darker-lastpass
-@version        0.0.2
+@version        0.0.3
 @description    A new userstyle
 @author         Thiago Braga <thibraga06@gmail.com>
 ==/UserStyle== */
@@ -124,6 +124,10 @@
     border-bottom: 1px solid #1b262f;
     color:       #b0b5b9;
   }
+  
+  .contents {
+    margin-bottom: 20px;
+  }
 
   #pageTitle {
     color: #b0b5b9;
@@ -164,7 +168,16 @@
   }
 
   .folder {
-    margin: 1px 48px 24px 30px;
+    margin: 1px 42px 24px 30px;
+  }
+  
+  .stickyFolder {
+    background-color: #141d22;
+  }
+  
+  .stickyFoldersContainer.folder {
+    margin-top:    0;
+    padding-right: 15px;
   }
 
   :focus {
