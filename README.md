@@ -9,5 +9,5 @@ A blue dark theme for LastPass password manager.
 ### Links
 
 **UserStyles**: https://userstyles.org/styles/163199/dark-lastpass  
-**Github**: https://github.com/thiagobraga/darker-lastpass  
-**Issues**: https://github.com/thiagobraga/darker-lastpass/issues
+**Github**: https://github.com/thiagobraga/dark-lastpass  
+**Issues**: https://github.com/thiagobraga/dark-lastpass/issues
