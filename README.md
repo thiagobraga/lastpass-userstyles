@@ -8,6 +8,6 @@ A blue dark theme for LastPass password manager.
 
 ### Links
 
-**UserStyles**: https://userstyles.org/styles/163199/dark-lastpass
-**Github**: https://github.com/thiagobraga/darker-lastpass
+**UserStyles**: https://userstyles.org/styles/163199/dark-lastpass  
+**Github**: https://github.com/thiagobraga/darker-lastpass  
 **Issues**: https://github.com/thiagobraga/darker-lastpass/issues
