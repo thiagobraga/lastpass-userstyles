@@ -4,7 +4,7 @@ A blue dark theme for LastPass password manager.
 
 ### Version
 
-0.0.2
+0.0.6
 
 ### Links
 
