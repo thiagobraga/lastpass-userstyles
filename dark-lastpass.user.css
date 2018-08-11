@@ -2,7 +2,7 @@
 @name           Dark LastPass
 @namespace      https://github.com/thiagobraga/dark-lastpass
 @description    A blue dark theme for LastPass password manager.
-@version        0.0.5
+@version        0.0.6
 @author         Thiago Braga <thibraga06@gmail.com>
 ==/UserStyle== */
 
@@ -14,12 +14,20 @@
   .lp-get-lastpass a {
     background-color: #333f48;
   }
+  
+  a {
+    color: #b8c3ca;
+  }
 
   .main {
-    background-color: #22303a;
+    background-color: #172027;
   }
 
   label {
+    color: #b0b5b9;
+  }
+  
+  .muted {
     color: #b0b5b9;
   }
 
@@ -34,7 +42,11 @@
 
   .contentframe {
     background-color: #22303a;
-    border: 1px solid #333f48;
+    border:           1px solid #333f48;
+  }
+  
+  .contentheading {
+    color: #b0b5b9;
   }
 
   #tools {
@@ -66,6 +78,13 @@
   .meter .best {
     background-color: #0dd05b;
   }
+  
+  .main .inputtext {
+    background-color: #172027;
+    border:           1px solid #22303a;
+    color:            #737d8a !important;
+    height:           32px;
+  }
 
   .dialogInput,
   .dialog input[type="text"],
@@ -73,7 +92,7 @@
   .dialog textarea {
     background-color: #22303a;
     border:           1px solid #1c272f;
-    color:          #868686;
+    color:            #737d8a;
   }
 
   .dialogInput:focus {
@@ -81,7 +100,7 @@
   }
 
   .rbtn {
-    background-color: #223039;
+    background-color: #19252b;
     border-color:     #51616d;
     color:            #b0b8bf !important;
   }
@@ -122,7 +141,7 @@
 
   .folderContainer {
     border-bottom: 1px solid #1b262f;
-    color:       #b0b5b9;
+    color:         #b0b5b9;
   }
   
   .contents {
@@ -136,14 +155,14 @@
   .optionButtons,
   .optionsDropdown {
     background-color: #33414a;
-    color: #b0b8bf;
+    color:            #b0b8bf;
   }
 
   .optionsDropdown:hover,
   .optionButton:hover,
   .toggleButton:hover {
     background-color: #5d7686;
-    color: #b0b8bf;
+    color:            #b0b8bf;
   }
 
   .list {
