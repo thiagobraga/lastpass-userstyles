@@ -1,6 +1,10 @@
-# Dark Lastpass
+<h1 align="center">
+  Dark Lastpass
+</h1>
 
-A blue dark theme for LastPass password manager.
+<p align="center">
+  A blue dark theme for LastPass password manager.
+</p>
 
 ### Version
 
