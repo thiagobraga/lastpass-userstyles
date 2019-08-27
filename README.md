@@ -7,7 +7,7 @@
 <p align="center">
   🔐 One Dark theme for LastPass<br>
   <a href="https://raw.githubusercontent.com/thiagobraga/lastpass-userstyles/master/lastpass.user.css"><img src="https://img.shields.io/badge/Install%20directly%20with-Stylus-lightgrey.svg?longCache=true&logo=google&logoColor=f1f1f1" align="center" alt="Install directly with Stylus extension" /></a>
-  <a href="https://raw.githubusercontent.com/thiagobraga/lastpass-userstyles/master/lastpass.user.css"><img src="https://img.shields.io/badge/version-0.0.1-red.svg" align="center" alt="Version 0.0.1"></a>
+  <a href="https://raw.githubusercontent.com/thiagobraga/lastpass-userstyles/master/lastpass.user.css"><img src="https://img.shields.io/badge/version-0.0.1-CB2929.svg" align="center" alt="Version 0.0.1"></a>
 </p>
 
 ## Installation
